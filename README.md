@@ -1,4 +1,4 @@
-[Hackerrank.com](https://hackerrank.com) ðŸŽ“Certificate Test Solution 
+[Hackerrank.com](https://hackerrank.com) 🎓Certification Solution 
 
 ---
 
@@ -20,7 +20,7 @@
 	
 - [Node.js Basic Test](https://github.com/vietthang20122485/HackerRank-NodeJS-Basic-Test)
 
-	Here is list of problems:
+	List of problems:
 	+ Find Recipe Step
 	+ Find Recipes
 	+ Order Processing
