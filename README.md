@@ -1,4 +1,4 @@
-[Hackerrank.com](https://hackerrank.com) 🎓Certificate Test Solution 
+[Hackerrank.com](https://hackerrank.com) ðŸŽ“Certificate Test Solution 
 
 ---
 
@@ -12,9 +12,19 @@
 
 
 
-- [React Basic Test](https://github.com/hackerrank-test/hackerrank-react-test)
+- [React Basic Test](https://github.com/vietthang20122485/HackerRank-React-Basic-Test)
+Here is list of problems:
+1. 
+2. 
 - [Node.js Basic Test](https://github.com/vietthang20122485/HackerRank-NodeJS-Basic-Test)
-
+Here is list of problems:
+1. Find Recipe Step
+2. Find Recipes
+3. Order Processing
+4. Pagination
+5. Pagination Middleware
+6. Recipes Filter
+7. Recipes Pagination
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
